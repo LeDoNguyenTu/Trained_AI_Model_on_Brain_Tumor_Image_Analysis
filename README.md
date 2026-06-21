@@ -1,0 +1,5 @@
+# Notice!
+IF THE FILE IS NOT DISPLAYING CORRECTLY, PLEASE VISIT THIS GOOGLE COLAB LINK DIRECTLY FOR THE FULL PROJECT
+
+
+## Link: https://colab.research.google.com/drive/1qMCSYdzEu9neUoyVyHPOkIePxgZg8SBV?usp=sharing
